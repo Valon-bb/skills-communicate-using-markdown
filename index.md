@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Sound
+- [x] Damage
+- [x] rarely
